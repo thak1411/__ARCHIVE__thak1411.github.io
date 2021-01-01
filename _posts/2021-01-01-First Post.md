@@ -2,10 +2,7 @@
 layout: post
 title: post-sample
 date: 2020-01-03 00:00:00 +0900
-category: rn
+category: Algorithm
 ---
-# rn test
-hi this is test
-for
-
-my post
+# Rn's First Post
+Hello World!
